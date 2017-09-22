@@ -15,4 +15,4 @@ Total 7 projects:
 | 4  | Creating Customer Segments  | Done  |
 | 5  | Train a Smartcab to Drive  | Done |
 | 6  | Dog Breed Classifier  | Done |
-| 7  | Capstone Project  |  |
+| 7  | Capstone Project: (Kaggle) Personalized Medicine: Redefining Cancer Treatment  | Done  |
